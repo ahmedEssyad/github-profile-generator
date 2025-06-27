@@ -19,7 +19,7 @@
 
 ## 🎯 Demo
 
-[**Try it live →**](https://github-profile-generator-pearl.vercel.app)
+[**Try it live →**](https://github-profile-generator-three.vercel.app/)
 
 ![GitHub Profile Generator Demo](./demo/screenshot.png)
 
