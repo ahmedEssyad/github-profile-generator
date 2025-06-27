@@ -1,0 +1,57 @@
+{
+  "name": "github-profile-generator",
+  "version": "1.0.0",
+  "description": "Create stunning GitHub profile READMEs in minutes with beautiful templates and smooth animations",
+  "homepage": "https://github-profile-generator-pearl.vercel.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedEssyad/github-profile-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmedEssyad/github-profile-generator/issues"
+  },
+  "author": {
+    "name": "Ahmed Essyad",
+    "email": "ahmed.essyad@example.com",
+    "url": "https://github.com/ahmedEssyad"
+  },
+  "license": "MIT",
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "generator",
+    "react",
+    "framer-motion",
+    "developer-tools",
+    "portfolio",
+    "templates"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "framer-motion": "^12.19.1",
+    "lucide-react": "^0.523.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-icons": "^5.5.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
